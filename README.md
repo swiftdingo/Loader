@@ -1,1 +1,1 @@
-An .exe that creates a .exe with "customized" sections 
+An .exe that creates a file-mapped .exe with "customized" sections 
